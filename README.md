@@ -84,7 +84,8 @@ After running the tests, results can be found in the target/surefire-reports dir
 ## Screenshots
 ![image](https://github.com/user-attachments/assets/fb3c7cb6-ac2a-40cb-a022-3d1bf55e59d4)
 
-![image](https://github.com/user-attachments/assets/a6dbb050-c081-4d94-a909-47aa81387c6c)
+![image](https://github.com/user-attachments/assets/a6ee692f-e5f1-4abe-a162-28a189f2dc2e)
+
 
 ![image](https://github.com/user-attachments/assets/803a225b-c0c5-4d4a-96f9-e6a42339e6e3)
 
